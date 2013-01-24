@@ -2,6 +2,7 @@
 <title>Eric G. Wolfe's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Master Messenger (Level 8)</title><description>Applied a patch using git am.</description></item>
 <item><title>Apprentice Thug (Level 3)</title><description>Forced pushed a branch with git push -f</description></item>
 <item><title>Apprentice Carpenter (Level 1)</title><description>Custom git hooks are installed which help catch issues before they are shared.</description></item>
 <item><title>Master Historian (Level 8)</title><description>Investigate the commit log using git log.</description></item>
@@ -21,5 +22,4 @@
 <item><title>Collector (Level 5)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
 <item><title>Master Fisherman (Level 7)</title><description>Look for specified patterns in the current repository with git grep.</description></item>
 <item><title>Gipsy (Level 4)</title><description>Create, list, delete a tag signed with GPG using git tag</description></item>
-<item><title>Master Historian (Level 7)</title><description>Investigate the commit log using git log.</description></item>
 </channel></rss>
